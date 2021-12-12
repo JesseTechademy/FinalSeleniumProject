@@ -37,7 +37,7 @@ In order to run this program you will need to have the following installed:
   # Members
   
   <br />Gowri Shankar G - https://github.com/ShankarG31/SeleniumProject 
-  <br />Nithin K R      - https://github.com/NithinKRgowda/FinalProject
+  <br />Nithin K R      - https://github.com/NithinKRgowda/FinalSeleniumProject
   <br />Girish RU       - https://github.com/GirishRU/FinalSeleniumProject
   <br />Wandile M       - 
   <br />Shilo           - 
