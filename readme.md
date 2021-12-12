@@ -21,8 +21,9 @@ In order to run this program you will need to have the following installed:
       <li>Cucumber Extension</li>
     </ul>
   <li>Maven</li>
-
+  
   ## To run the application
+  
   <ol type="1">
     <li>Import the contents of the repository through Eclipse IDE</li>
     <li>Convert the project to a TestNG project by right clicking on the project</li>
@@ -32,4 +33,11 @@ In order to run this program you will need to have the following installed:
       </ul>  
     <li>The Test will complete</li>
   </ol>
+  
+  #Members
+  Gowri Shankar G - https://github.com/ShankarG31/SeleniumProject 
+  Nithin K R      - https://github.com/NithinKRgowda/FinalProject
+  Girish RU       - https://github.com/GirishRU/BBTesting
+  Wandile M       - 
+  Shilo           - 
 <p align="right">(<a href="#top">back to top</a>)</p>
