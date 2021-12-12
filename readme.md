@@ -40,5 +40,5 @@ In order to run this program you will need to have the following installed:
   <br />Nithin K R      - https://github.com/NithinKRgowda/FinalSeleniumProject
   <br />Girish RU       - https://github.com/GirishRU/FinalSeleniumProject
   <br />Wandile M       - 
-  <br />Shilo           - 
+  <br />Shilo M         - https://github.com/ShiloMadikani/FinalSeleniumProject
 <p align="right">(<a href="#top">back to top</a>)</p>
