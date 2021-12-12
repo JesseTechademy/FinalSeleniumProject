@@ -34,10 +34,11 @@ In order to run this program you will need to have the following installed:
     <li>The Test will complete</li>
   </ol>
   
-  #Members
-  Gowri Shankar G - https://github.com/ShankarG31/SeleniumProject 
-  Nithin K R      - https://github.com/NithinKRgowda/FinalProject
-  Girish RU       - https://github.com/GirishRU/BBTesting
-  Wandile M       - 
-  Shilo           - 
+  # Members
+  
+  <br />Gowri Shankar G - https://github.com/ShankarG31/SeleniumProject 
+  <br />Nithin K R      - https://github.com/NithinKRgowda/FinalProject
+  <br />Girish RU       - https://github.com/GirishRU/FinalSeleniumProject
+  <br />Wandile M       - 
+  <br />Shilo           - 
 <p align="right">(<a href="#top">back to top</a>)</p>
